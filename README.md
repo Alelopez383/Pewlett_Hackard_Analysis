@@ -44,6 +44,31 @@ One of the managers asked for a list of retiring employees in both the Sales and
 
 ![image](https://user-images.githubusercontent.com/43974872/195876409-7cf0c50c-1229-4322-b6e1-b1418c8676c9.png)
 
+### Number of Retiring Employees by Title
+We create a *Retirement Titles* table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the list, due to promotions, we only selected those with the most recent title of each employee. Then, we use a condition for the number of retirement-age employees by most recent job title. An also, we only included current employees in our analysis, excluded those employees who have already left the company. We found 133,776 retiring employees, but there are duplicate entries for some employees because they have switched titles over the years, the results shows us only 72,458 employees ready to retire. 
 
+Also we create a list with the reitirn number of employees by title. So , we can look that we are going to need two nes managers in the future.
+We did an extra list, how many ritring employees by departmen name and we found the the Development Department is the one with major comming vaccancies.
+
+- Retiring employees by title(complete)
+- 
+![image](https://user-images.githubusercontent.com/43974872/195878672-28577bce-7771-467f-8243-f5639450f6f3.png)
+
+- Reitring employees by title (unique results)
+
+![image](https://user-images.githubusercontent.com/43974872/195878771-170e9306-5255-45ec-9874-d38f9ef83527.png)
+
+- Retiring number by titles
+
+![image](https://user-images.githubusercontent.com/43974872/195879388-d194b3bd-fd46-48f9-a5f6-b1d39cc2c951.png)
+
+- Retirng number by department name.
+
+![image](https://user-images.githubusercontent.com/43974872/195880399-5da47f78-c4e1-4ffb-868a-9058aa50701a.png)
+
+
+### The Employees Eligible for the Mentonrship Program
+
+# 
 
 
