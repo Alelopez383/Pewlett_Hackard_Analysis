@@ -68,7 +68,16 @@ We did an extra list, how many ritring employees by departmen name and we found 
 
 
 ### The Employees Eligible for the Mentonrship Program
+Now we looked for the employees that were current ones, whose birth dates were between January 1, 1965 and December 31, 1965, and who are eligible to participate in a mentorship program. The results we found shows 1,549 possible employees that can be eligible for the Mentorship Program.
 
-# 
+![image](https://user-images.githubusercontent.com/43974872/195880937-2350af48-e358-476d-a99b-18c362daafaa.png)
+
+
+# Final Results
+The information collected shows that several issues to be addressed:
+1. There are no salary increases.
+2. There are repeated names of employees and in different departments, which makes us believe that the databases of the employees and departments have not been updated based on their last position.
+3. The active managers are less than the number of departments, which makes us think that there are departments without a manager and the rest have double the burden of having to deal with those departments.
+4. There are only 1,549 employees with the possibility of a Mentoring Program.
 
 
